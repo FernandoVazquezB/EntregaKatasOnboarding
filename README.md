@@ -1,2 +1,3 @@
-# EntregaKatasOnboarding
-Fecha limite de entrega de Katas de LaunchX Onboarding
+# Entrega de Katas Onboarding
+
+Vazquez Bernal Fernando
